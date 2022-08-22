@@ -4,12 +4,22 @@ public class Dog {
 
 	String color = "Black";
 	String size1 = "small";
-	String breed1 = 
-			String ca
+	String breed1 = "labrador";
+	
 			
-			public static void
+public static void color() {
+	
+}
+
+public static void size1() {
+	
+}
+
+public static void breed1() {
+	
+}
+
 
 }
 
-public static void
 
